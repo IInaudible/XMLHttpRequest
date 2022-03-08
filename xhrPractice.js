@@ -1,6 +1,8 @@
 //first open the integrated terminal 
 //npm init
+//npm i nodemon
 //add "start": "nodemon"  to scripts
+//npm i xhr2
 
 //create a variable called XMLHttpRequest to require ("xhr");
 //create a variable called xhr and set it equal to a new XMLHttpRequest()
